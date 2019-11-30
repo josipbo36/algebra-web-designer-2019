@@ -1,6 +1,6 @@
 # Algebra / Web Designer / Module 4 - WordPress
 
-[:arrow_backward: Algebra / Web Designer](../README.md)
+[:arrow_backward: Algebra / Web Designer](../)
 
 ---
 

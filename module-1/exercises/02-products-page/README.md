@@ -1,12 +1,12 @@
 # Exercises / Products Page
 
-[:arrow_backward: Algebra / Web Designer / Module 1 - Introduction To Web Design and Image Manipulation/Exercises](../README.md)
+[:arrow_backward: Algebra / Web Designer / Module 1 - Introduction To Web Design and Image Manipulation/Exercises](../)
 
 ---
 
 ## Assignment
 
-> This assignment is a continuation of [Figma Exercises / Product Card](../01-product-card/README.md).
+> This assignment is a continuation of [Figma Exercises / Product Card](../01-product-card/).
 
 You are tasked with designing a web shop for a fashion brand.
 

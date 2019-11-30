@@ -1,6 +1,6 @@
 # Cheat Sheet
 
-[:arrow_backward: Algebra / Web Designer / Module 2 - HTML](README.md)
+[:arrow_backward: Algebra / Web Designer / Module 2 - HTML](./)
 
 ---
 

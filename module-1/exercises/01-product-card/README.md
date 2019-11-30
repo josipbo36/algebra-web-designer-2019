@@ -1,6 +1,6 @@
 # Exercises / Product Card
 
-[:arrow_backward: Algebra / Web Designer / Module 1 - Introduction To Web Design and Image Manipulation/Exercises](../README.md)
+[:arrow_backward: Algebra / Web Designer / Module 1 - Introduction To Web Design and Image Manipulation/Exercises](../)
 
 ---
 

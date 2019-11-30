@@ -1,6 +1,6 @@
 # Algebra / Web Designer / Module 3 - CSS
 
-[:arrow_backward: Algebra / Web Designer](../README.md)
+[:arrow_backward: Algebra / Web Designer](../)
 
 ---
 
