@@ -15,6 +15,6 @@
 7. [Media](07-media/README.md)
 8. [Project: Cookbook](08-project-cookbook/README.md)
 9. [Tables](09-tables/README.md)
-10. [Project: Calendar](10-project-calendar/README.md)
+10. [Project: Class Register](10-project-class-register/README.md)
 11. [Forms](11-forms/README.md)
 12. [Project: Checkout](12-project-checkout/README.md)
