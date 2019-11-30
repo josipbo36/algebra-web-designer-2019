@@ -47,4 +47,3 @@ To complete the assignment, deliver a Figma project file containing the followin
 - Research how different web shops apply different pagination mechanisms (e.g. numbered pages, "show more" triggers, loading while scrolling) and how that impacts user experience
 - Research how different webs shops organise header and footer elements on mobile phones
 - Breadcrumbs usually depend on categorisation, so feel free to think of something (e.g. Home > Men's > Shirts) or use an example from researched web shops
-- 
